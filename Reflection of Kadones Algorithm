@@ -1,0 +1,7 @@
+1.Kadones algorithm finds the sum of largest sub array 
+2.two variables are maintained one with temp and other is max
+3.we add element to temp each time if it is less than 0 then we make temp as 0
+4.and if max is lass than temp then make temp as max
+5.step 3 and 4 are repeated n number of times 
+6.max value is returned
+
