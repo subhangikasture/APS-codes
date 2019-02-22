@@ -8,10 +8,6 @@ It can generated with the help of Bionomial Coefficients
 Using Dynamic programing we need to use two for loops and one if condition
 we can do ot using recursion as well but it is more complex and takes more number of iterations
 
-
-
-
-
 ##CADONES ALGORITHM
 1.Kadones algorithm finds the sum of largest sub array 
 2.two variables are maintained one with temp and other is max
